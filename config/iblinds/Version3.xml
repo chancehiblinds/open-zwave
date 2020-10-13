@@ -52,7 +52,7 @@
     </Value>
     <Value genre="config" type="int" size="1" index="6" label="Speed" min="0" max="100" value="0">
       <Help>
-	  How fast iblinds will close in seconds
+	  How fast iblinds will close in seconds. Currently only works with Multilevel Switch Set (Slider position %).
       Default:0
       </Help>
     </Value>
